@@ -1,7 +1,6 @@
 ### Hi, I'm Moises <img src="https://github.com/moisesmartins14/moisesmartins14/blob/main/wave.gif?raw=true" width="30px">
 
-I am student Information of System looking for opportunities and collaboration in projects related to flutter.
-
+Hello my name is Moisés Martins I am Flutter Developer.
 
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=moisesmartins14&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmartins14&layout=compact&theme=dark&show_icons=true)-->
 
